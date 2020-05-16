@@ -1,1 +1,1 @@
-# basic-bug-tracker
+# Basic Bug Tracker
